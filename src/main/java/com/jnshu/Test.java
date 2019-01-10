@@ -5,6 +5,6 @@ public class Test {
         System.out.println ("Hello world!");
         System.out.println ("first");
         System.out.println (9999999);
-        System.out.println (88888);
+        System.out.println (7777);
     }
 }
